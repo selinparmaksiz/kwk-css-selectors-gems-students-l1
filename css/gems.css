@@ -3,7 +3,7 @@
 /*selector for ruby goes here */ img.ruby {
   position: absolute;
   z-index: 1;
-  top: 300px;
+  top: 100px;
   left: 175px;
 }
 
